@@ -1,2 +1,2 @@
-# Python-CRUD-interface-grafica-pySimpleGUI
-CRUD interface gráfica com conexão com banco de dados Oracle, python
+# Python_CRUD_interface_grafica_pySimpleGUI
+CRUD interface gráfica com conexão a banco de dados Oracle, python
